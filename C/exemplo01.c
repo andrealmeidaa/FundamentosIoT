@@ -10,5 +10,5 @@ int main(){
     printf("Digite o segundo número:");
     scanf("%d",&b);
     c=soma(a,b);
-     printf("O resultado da soma é %d \n. Nova mensagem. Atualizando de novo",c);
+     printf("O resultado da soma é %d \n. Nova mensagem. Atualizando de novo. Alterei no servidor",c);
 }
